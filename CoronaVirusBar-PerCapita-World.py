@@ -155,9 +155,6 @@ def changestate2(confirmed, chdict):
 # compath = "D:/YoutubeChannel/CoronaVirus/time_series_covid19_confirmed_global.csv"
 # dpath = "D:/YoutubeChannel/CoronaVirus/time_series_covid19_deaths_global.csv"
 # rpath = "D:/YoutubeChannel/CoronaVirus/time_series_covid19_recovered_global.csv"
-compath = "C:/Users/copok/Documents/GitHub/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv"
-dpath = "C:/Users/copok/Documents/GitHub/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv"
-rpath = "C:/Users/copok/Documents/GitHub/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv"
 confirmed = pd.read_csv(compath)
 death = pd.read_csv(dpath)
 rec = pd.read_csv(rpath)
