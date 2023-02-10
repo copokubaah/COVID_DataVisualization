@@ -1,4 +1,4 @@
-# ANIMATED TIME SERIES VISUALIZATION OF COVID-19 PATTERNS ACROSS THE WORLD
+# CUSTOM ANIMATED TIME SERIES VISUALIZATION OF COVID-19 PATTERNS ACROSS THE WORLD
 
 ## Overview
 The COVID-19 pandemic, caused by the novel coronavirus, has affected people in almost every country in the world, making it a truly global phenomenon. The virus is highly contagious, is able to spread rapidly and can cause serious illness and death, making it a major public health concern.The pandemic has had major impacts on the global economy, leading to widespread job losses and business closures. It has also forced people to make major changes to their daily routines, including staying at home and avoiding large gatherings, which has been a significant shift in people's lives.
