@@ -1,5 +1,10 @@
-# COVID_DataVisualization
+# ANIMATED TIME SERIES VISUALIZATION OF COVID-19 PATTERNS ACROSS THE WORLD
+
 ## Overview
+The COVID-19 pandemic, caused by the novel coronavirus, has affected people in almost every country in the world, making it a truly global phenomenon. The virus is highly contagious, is able to spread rapidly and can cause serious illness and death, making it a major public health concern.The pandemic has had major impacts on the global economy, leading to widespread job losses and business closures. It has also forced people to make major changes to their daily routines, including staying at home and avoiding large gatherings, which has been a significant shift in people's lives.
+
+In this project, I used solely python to conduct data cleaning and exploration and created an animated time series visualization of the spread of the virus across countries during the pandemic phase in 2020. In python, I used several techniques and libraries including parallel processing to create tens of thousands of HD images, matloplib and geopandas for beautiful edited images.  I shared most of my work on my youtube channel here https://www.youtube.com/@statsmania504 getting 86 subscribers and thousands of views. 
+
 This repo contains python script to create data visualization for COVID data
 
 There are two types of visualizations created here;
